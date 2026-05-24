@@ -1,7 +1,5 @@
 # schema-gen
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
-[![Tests](https://img.shields.io/badge/tests-passing-brightgreen.svg)]()
 
 Generate Pydantic v2 models from JSON samples â automatically infer types, handle nested objects, and produce clean, importable Python code.
 
